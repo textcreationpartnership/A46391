@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Just vindication of the honour of King James of blessed memory against the vile aspersions cast upon it and him by a late pamphlet printed by B. Took : and pretended to be presented by the grand jury for the town and borough of Southwark, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46391</idno>
+            <idno type="STC">Wing J1243</idno>
+            <idno type="STC">ESTC R35424</idno>
+            <idno type="EEBO-CITATION">15293930</idno>
+            <idno type="OCLC">ocm 15293930</idno>
+            <idno type="VID">103376</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46391)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103376)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1190:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Just vindication of the honour of King James of blessed memory against the vile aspersions cast upon it and him by a late pamphlet printed by B. Took : and pretended to be presented by the grand jury for the town and borough of Southwark, &amp;c.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Oswell,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  I, --  King of England, 1566-1625. --  Basilikon doron.</term>
+               <term>Southwark (London, England). --  Grand Jury. --  Presentments of the grand jury of the town and borough of Southwark.</term>
+               <term>Dissenters, Religious.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:103376:1" rendition="simple:additions"/>
+            <head>A JUST VINDICATION OF THE Honour of King James Of Bleſſed Memory. Againſt the vile Aſperſions caſt upon it, and Him, by a late Pamphlet, Printed by <hi>B. Took.</hi> And pretended to be Preſented by the <hi>Grand Jury</hi> for the Town and Borough of <hi>Southwark,</hi> &amp;c.</head>
+            <p>THERE is nothing ſo Sacred, but Detraction will Blaſpheme it; nothing ſo High, but Envy will Attack it; nothing ſo Excellent, but Ignorance will Per<g ref="char:EOLhyphen"/>ſecute it. If the Dignity of the Regal Office, The Majeſty of the Perſon, The Acuteneſs of Parts and Underſtanding could have given Priviledge and Protection to Princes, the Honour of King <hi>James</hi> had been Impregnable: But the blind Beetle durſt once Aſſault the Royal Eagle, when it had taken Sanctuary in <hi>Jupiters</hi> Boſome.</p>
+            <p>This Wiſe and Learned Prince, out of a pious and politick Deſign to ſeaſon the tender Years of his Son Prince <hi>Henry,</hi> then Heir Apparent of his Ancient Kingdom of <hi>Scotland:</hi> And that he might not onely leave him a Kingdom to Govern, but qualifie him for the Art of Government, Compoſed that Excellent Piece, Stiled, <hi>Baſilicon Doron;</hi> or, <hi>His Majeſties Inſtructions to his Deareſt Son</hi> Henry <hi>the Prince.</hi> This Incomparable Book his Majeſty <hi>thought no ways convenient, nor comely to be Proclaimed to all, which to one onely appertained; And there<g ref="char:EOLhyphen"/>fore for the more ſecret and cloſe keeping of it, He onely permitted Seven to be Printed; the</hi> Printer <hi>being firſt ſworn to Secreſie.</hi>
+            </p>
+            <p>But notwithſtanding, all his circumſpection and caution, whether through the treachery of the Printer, or the miſtaken Zeal of ſome Courtiers, who would not have the World de<g ref="char:EOLhyphen"/>priv'd of ſo rich a Treaſure, as from its own innate worth, which like the Diamond, ſhone moſt in the Dark; the Book was made Publick, and thereby <hi>became ſubject to every Man's Cenſure.</hi>
+            </p>
+            <p>So Great a King could not want Enemies; The Sun it ſelf is obſcured by thoſe ungrate<g ref="char:EOLhyphen"/>ful Vapours which are raiſed out of the Earth by his Influence: but amongſt all his Ene<g ref="char:EOLhyphen"/>mies, none were more concern'd out of Intereſt to Aſperſe his Pious Intentions, than the <hi>Jeſuits,</hi> (and particularly <hi>Becanus</hi>) who have greedily laid hold on ſome few paſſages in the Book, to Reproach the <hi>Puritans,</hi> by which Title they branded in thoſe days all Reformed Proteſtants.</p>
+            <p>It is very true, that the <hi>Papiſts</hi> had a deeper reach in their Calumniating that Great King, than every one could diſcover; for they knew him to have been well grounded in the Pro<g ref="char:EOLhyphen"/>teſtant Religion, by Education; Confirmed therein by his own judgment, and engaged to eſpouſe it by his true Intereſt; and that he had a Pen that was able to Defend it: and knowing in their Conſciences, with regret, That upon the Death of Queen <hi>Elizabeth,</hi> he muſt by undoubted Right and Title Succeed her in the Crown of <hi>England;</hi> and that ſuch Succeſſion would prove a fatal blow to their conceiv'd hopes and pretenſions of Eſtabliſhing
+<pb n="2" facs="tcp:103376:2" rendition="simple:additions"/>
+their long ſince exploded Religion: Hereupon they employ all their Engines, Summon all their Artifices, and rowze up all their fury and policy to Beſpatter him, as a Perſon of a Vin<g ref="char:EOLhyphen"/>dictive Spirit, that would Avenge upon the <hi>Engliſh</hi> his Mothers Quarrel; and as a Perſon not well fixed in the Principles of Religion.</p>
+            <p>And herein they were wickedly ſubtil; for by the former Slander, they hoped to en<g ref="char:EOLhyphen"/>gage againſt him all thoſe Grandees and Stateſmen in <hi>England,</hi> that might any ways be ſuppoſed to have had a finger in the Death of his Mother; and by the latter, they fancied they ſhould prejudice him in the thoughts of thoſe Perſons who were commonly, though falſly, called <hi>Puritans</hi> in <hi>England,</hi> who were no inconſiderable Party for Number, Intereſt, or Piety.</p>
+            <p>Nor did Jeſuitical Malice reſt here, but they ſet on foot many falſe Titles to the Crown Imperial of this Realm; ſome to amuſe the Vulgar, others to engage the <hi>Spaniard,</hi> and all of them to hinder his Juſt Succeſſion here, if either Heaven would have favoured them, of Hell could have kept them.</p>
+            <p>That paſſage which their Malice fixed upon in his <hi>Inſtructions to his Son the Prince,</hi> to ex<g ref="char:EOLhyphen"/>aſperate the Minds of many Sober Proteſtants in <hi>England</hi> againſt his coming to the Crown, did ſerve their Turns pretty well, for indeed it ſounded harſhly in common Ears, and carri<g ref="char:EOLhyphen"/>ed ſome Intimation of his Diſpleaſure againſt that ſort of People, with thoſe who onely lookt upon the ſurface of the Words, and were not privy to the Deſign of his Majeſty.</p>
+            <p>But the King being timely Informed of the Scandal taken, and that he might obviate the De<g ref="char:EOLhyphen"/>ſign of it, cauſed his Book which before had been Printed privately, and under an Oath of Secreſie, to appear Publickly, and that praemunited with a Preface, written by his own Hand; wherein with marvellous Clearneſs he Vindicates his Royal Intentions, from thoſe Siniſter Conſtructions put upon them, and therein has ſaid ſo much as might have ſilenc'd Detraction, knockt out the teeth of Envy, and ſet his Name right in the thoughts of all good Men for ever: And this Preface was added to his Reprinted Book, in the Year 1603. at <hi>London,</hi> by <hi>Felix Kingſton,</hi> for <hi>John Norton.</hi>
+            </p>
+            <p>And now it might have been expected, That after Fourſcore Years lying in the Grave, the Calumny had been Rotten, and the Memory of that Learned King might have Survived in his Writings; ſince Envy, which commonly preys upon the Living, uſes yet to ſpare the Aſhes of the Dead: When contrary to all our hopes, A late <hi>Pamphlet,</hi> Printed by one <hi>B. Took,</hi> revives the Reproach, as if it would challenge the King's Sacred Duſt to awake, and riſe up in their own juſt Vindication.</p>
+            <p>For we meet every where in the Streets, A Paper which pretends to the Title of <hi>Preſent<g ref="char:EOLhyphen"/>ments of the Grand-Jury of the Town and Borough of Southwark:</hi> Which begins thus:
+<q>We the <hi>Grand-Jury</hi> Summoned, and Sworn for this preſent Seſſions of the Peace holden for the Town and Borough of <hi>Southwark,</hi> do with all humble deference to our Superiours Preſent as followeth, <hi>viz.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>THat the Wiſe and Learned King</hi> James, <hi>His Majeſties Royal Grand-Father, of bleſſed Me<g ref="char:EOLhyphen"/>mory, has from his own obſervation, and ſad Experience (among other things) ſo Solemn<g ref="char:EOLhyphen"/>ly Aſſerted in his Excellent Book of Inſtructions to his Eldeſt Son Prince</hi> Henry, <hi>concerning the</hi> Puritans <hi>of that Age, may as truly be affirmed of the generality of the Sectaries of our time;</hi> to wit; <q>That they are the very Peſts in the Church and Common-wealth, whom no de<g ref="char:EOLhyphen"/>ſerts can oblige, neither Oaths nor Promiſes bind; breathing nothing but Sedition and Ca<g ref="char:EOLhyphen"/>lumnies; Aſpiring without meaſure, Railing without reaſon: and making their own Imagi<g ref="char:EOLhyphen"/>nations (without any Warrant of the Word) the ſquare of their Conſciences; and that ye ſhall never find with any High-land, or Border-Thieves, greater Ingratitude, and more Lies and Perjuries, than with theſe <hi>Phanatick</hi> Spirits.</q>
+            </p>
+            <p>I ſhall not need to obſerve, how the <hi>Pamphlet</hi> ſuppreſſes thoſe Words in the entrance of the Paragraph, which had given ſome light to his Majeſties meaning; <hi>Take heed therefore, my Son,</hi> to ſuch <hi>Puritans.</hi> Implying, that there were another ſort of Men, who though they were invidiouſly branded with that Name, yet were nothing akin to their Sentiments or Principles: nor ſhall I need to note, how he adviſes the Prince to beware alike of both the Extremities, <hi>As well as ye Repreſs the vain Puritan, ſo not to ſuffer the proud Papal Biſhops:</hi> Nor ſhall I con<g ref="char:EOLhyphen"/>cern my ſelf, whether ever there was ſuch a People in the World called a <hi>Grand-Jury,</hi> that Preſented this matter; though I confeſs it highly Improbable, That Perſons of their Cha<g ref="char:EOLhyphen"/>racter
+<pb n="3" facs="tcp:103376:2"/>
+ſhould ever have read, much leſs underſtood <hi>Bazilicon Doron;</hi> and it's utterly incredi<g ref="char:EOLhyphen"/>ble, that Men of Inferior Trades, moſt of them Mechanicks, ſhould venture upon a Point ſo Tender, when 'tis more than an even Wager, not two of them could Read the Title: nor am I to diſpute how they could Preſent it upon their Oaths, That what King <hi>James</hi> Aſſerted of thoſe <hi>Puritans,</hi> may as truly be Affirmed of the generality of Sectaries of our Times; becauſe it's ſcarce Imaginable, that ſuch Perſons have been able through the nar<g ref="char:EOLhyphen"/>rowneſs of their Employments to underſtand what the Principles of the generality of the <hi>Proseſtant Diſſenters</hi> are, ſo well as King <hi>James,</hi> who had advantage to ſearch into the Princi<g ref="char:EOLhyphen"/>ples, and Practiſes of thoſe <hi>Puritans,</hi> whom he ſo ſeverely, and yet juſtly laſhes; Nor yet can I debate it, how theſe Men can do this that they have done, <hi>with all humble deference to their Superiors;</hi> although it's a Queſtion to ſome, Whether they underſtand the meaning of the Word <hi>Deference,</hi> any more than that of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or how their Conductor has In<g ref="char:EOLhyphen"/>ſpired a <hi>Salter,</hi> or a <hi>Plummer,</hi> a <hi>Brawers Clark,</hi> or a <hi>Drummer;</hi> a <hi>Meal-man,</hi> or a <hi>Baker,</hi> a <hi>Talley-man,</hi> or <hi>Comb-maker;</hi> a <hi>Vinegar Merchant,</hi> or a <hi>Cartwheel-maker</hi> or a <hi>Smoothing-Iron-maker, &amp;c.</hi> that they ſhould ever profound into the ſecrets of State, or dive into the meaning of that Learned King: But there is that which I am concerned to make out, That the Words of King <hi>James</hi> are groſly miſtaken, or wilfully miſapplyed; That he means not by <hi>thoſe Puritans,</hi> ſuch as the generality of <hi>Diſſenters</hi> now are; and that he has in his Preface to his ſaid Book, abundantly ſatisfied the World of his true and pious Intentions. A brief Account where<g ref="char:EOLhyphen"/>of I ſhall now give the Reader, that he may learn, if ever it ſhould be his misfortune to come upon a Jury to which Matters out of his reach and depth ſhould be offer'd for his Sub<g ref="char:EOLhyphen"/>ſcribing, Swearing, and Preſenting, to demean himſelf with that Prudence and Uprightneſs that becomes a Chriſtian.</p>
+            <p n="1">1. Let us then hear King <hi>James</hi> himſelf, his Royal Comment upon his own Royal Text: <hi>The firſt Calumny</hi> (ſays he in his Preface) <hi>is grounded upon the ſharp and bitter words that there<g ref="char:EOLhyphen"/>in are uſed in the deſcription of the Humours of the</hi> Puritans. <hi>Firſt then, as to the Name of</hi> Pu<g ref="char:EOLhyphen"/>ritans, <hi>I am not ignorant, that the Stile thereof doth properly belong to the vile Sect among the</hi> Ana<g ref="char:EOLhyphen"/>baptiſts, <hi>call'd</hi> The Family of Love; <hi>becauſe they think themſelves onely Pure, and in a man<g ref="char:EOLhyphen"/>ner without Sin, the onely True Church, and onely worthy to be participant of the Sacraments; and all the reſt of the World to be but Abominable in the ſight of God: of this ſpecial Sect I prin<g ref="char:EOLhyphen"/>cipally mean when I ſpeak of</hi> Puritans. <hi>And partly indeed, I give this ſtile to ſuch Brain-ſick and heady Preachers, their Diſciples, and Followers, as refuſing to be call'd of that Sect, yet par<g ref="char:EOLhyphen"/>ticipate too much of their Humours, in maintaining the above-mentioned Errors.</hi>
+            </p>
+            <p>Very good! I would humbly ask then, How a <hi>Grand-Jury</hi> can Swear in Knowledg, Judg<g ref="char:EOLhyphen"/>ment, and Righteouſneſs, with Truth and a Good Conſcience, That thoſe words of the King may as truly be Affirmed <hi>of the generality of Proteſtant Diſſenters here in</hi> England <hi>at this day, as they were aſſerted of thoſe</hi> Puritans <hi>ſo deſcribed by His Majeſty in his times?</hi> It is very well known to all the World (though it be not expected from men of mean Occu<g ref="char:EOLhyphen"/>pations to know it) That the Diſſenters do generally deteſt the thoughts of imagining them<g ref="char:EOLhyphen"/>ſelves the Onely Pure People, or to be without Sin, or to be the Onely True Church, in op<g ref="char:EOLhyphen"/>poſition to other Reformed Churches of <hi>France, Holland, Germany,</hi> and <hi>England;</hi> but do perfectly Harmonize with that whole Body of <hi>Proteſtants</hi> in all the Articles of Faith, and Fundamental Points of Religion: nay, it is moſt apparent, that his Majeſty would be Inter<g ref="char:EOLhyphen"/>preted to ſpeak of none but the <hi>Family of Love,</hi> or ſuch <hi>as maintained their Error,</hi> wherein the generality of <hi>Proteſtant Diſſenters</hi> are not in the leaſt concerned or involved.</p>
+            <p>However, let His Majeſty proceed: <hi>It is onely of this kind of Men, in this Book,</hi> (ſays the King) <hi>that I write ſo ſharply—but all that other part (N. B.)</hi> I proteſt <hi>upon mine Ho<g ref="char:EOLhyphen"/>nour, I mean it not generally of all Preachers or others, that like better of the ſingle form of Policy in our Church</hi> (the Church of <hi>Scotland) than of the many Ceremonies of the Church of</hi> England: <hi>That are perſwaded that</hi> THEIR <hi>Biſhops ſmells of a Papal Supremacy: That the Surplice, the cornered Cap,</hi> and ſuch like, <hi>are the outward badges of Popiſh Error.</hi> May we then believe His Majeſty's Words? Then how can they juſtifie their Oaths, who Swear, and Declare, That the Kings Words may as truly be affirmed of the preſent <hi>Diſſenters,</hi> (whom the Pamphleteer is pleaſed to ſtile <hi>Sectaries</hi>) as of thoſe <hi>Puritans,</hi> when the King who doubtleſs underſtood his own meaning, better than theſe Men <hi>of Blow Aprons,</hi> openly declares the contrary, and has left it upon Record under his own hand to Poſterity? Let us then for once ſuppoſe, that the generality of <hi>Diſſenters</hi> among us in <hi>England</hi> ſhould judge, That <hi>the plain ſimple Form of Government uſed in</hi> Scotland <hi>in thoſe days,</hi> was more deſirable than <hi>many Ceremonies</hi> at that time (or ſince) <hi>uſed in the Church of</hi> England. Suppoſe (if you pleaſe) That the generality of <hi>Diſſenters</hi> ſhould think, that <hi>the Engliſh Biſhops did a little ſmell of Papal Supremacy:</hi> Suppoſe further, that they ſhould fancy that their <hi>Surplice, their cornered Cap, and ſuch like</hi> uſages, as the
+<pb n="4" facs="tcp:103376:3" rendition="simple:additions"/>
+Croſs in one Sacrament, Kneeling in the other, were <hi>Badges of Popiſh Errors;</hi> however, they may be miſtaken, <hi>yet King James</hi> will acquit them of having any ſhare upon that Account, in thoſe ſevere Characters he then gave of that kind of <hi>Puritans. No,</hi> (ſays he) <hi>I am ſo far from being Contentious in theſe things, (which for my own part, I ever eſteemed as indifferent) as I do equally love and honour the Learned and Grave Men of either of theſe Opinions; it can no ways become me</hi> (ſo he goes on) <hi>to pronounce ſo lightly of ſo old a Controverſie</hi> (He knew as well as any man, that the difference had been from the Infancy of the Reformation;) Nay, he knew that it had generally obtained in his Church of <hi>Scotland:</hi> He adds; <hi>We all (God be praiſed) do agree in the grounds; and the bitterneſs of Men, upon ſuch queſtions, doth but trouble the Peace of the Church, or give advantage and entry to the</hi> Papiſts <hi>by our Diviſion.</hi>
+            </p>
+            <p>Let the Matter then be Refer'd to the Impartial Reader, or to whomſoever it may per<g ref="char:EOLhyphen"/>tain, Whether King <hi>James</hi> deſigned to laſh thoſe who were not reconciled to Ceremonies and Prelacy, by that Expreſſion, which our <hi>Jury-men,</hi> do upon their Oaths <hi>Preſent</hi> to be equally applicable to the <hi>Proteſtant Diſſenters</hi> (diſguiſed under the odious Name of <hi>Sectaries</hi>) as to thoſe <hi>Puritans</hi> whom his Majeſty has ſo clearly Deciphered?</p>
+            <p>Nay, the King proceeds further, and goes higher; Adviſing <hi>thoſe that differ from the Eſta<g ref="char:EOLhyphen"/>bliſh'd Form of Government and Worſhip, to poſſeſs their Souls in peace, and to preſs by patience, and well-grounded Reaſons, either to perſuade all the reſt to like of their Judgments; or elſe, where they ſee better grounds on the other part, not to be aſham'd peaceably to encline thereto; laying aſide all preoccupied Opinions:</hi> And I think I may engage for all the <hi>Proteſtant Diſſenters</hi> in <hi>England,</hi> that they would reſt ſatisfied, might they have the choice of what His Majeſty ſo frankly offer'd to them in that Generation.</p>
+            <p>To ſhut up his Majeſties Apology: he tells us, he doubts not to ſatisfie all the World, <hi>That this is the true and onely meaning of his words, from the place it ſelf: where</hi> (ſays he) <hi>After I have ſpoken of the faults of our Eccleſiaſtical Eſtate, I exhort my Son to be beneficial un<g ref="char:EOLhyphen"/>to the good Men of the Miniſtry,</hi> (underſtand him of the then Church of <hi>Scotland) praiſing God there, that there is preſently (i. e.</hi> at that preſent time) <hi>a ſufficient Number of good men of them in this Kingdom; and yet they are all known</hi> to <hi>be againſt the Form of the</hi> Engliſh Church.</p>
+            <p>To ſhut up all: Let the Sober, the Wiſe, and Impartial judg, and all that are not frantick with Malice, and Drunk with Rage, Whether His Majeſty could poſſibly underſtand by <hi>thoſe Puritans,</hi> the Miniſters of the <hi>Presbyterian</hi> Perſuaſion, ſuch as were the generality of the <hi>Scottiſh</hi> Church, and yet they were <hi>well known</hi> (if we may believe His Majeſty) <hi>to be againſt the Form of the</hi> Engliſh <hi>Church.</hi>
+            </p>
+            <p>It cannot therefore enter into my Head, how it ſhould once enter into the Heads of a <hi>Grand-Jury,</hi> made up of Perſons ſo Characteriz'd as before, to <hi>Preſent</hi> upon their Oaths, That King <hi>James</hi>'s Words againſt the <hi>Puritans</hi> may be as truly Affirmed of the Modern <hi>Diſſenters.</hi> I muſt therefore Conclude, That either the <hi>Printer</hi> has abuſed their Honeſty, or ſome ſubtil Inſtrument impoſed upon their Underſtandings, and drawn them in to Swear Implicitly to a meaning ſo Contradictory to the Declared Judgment, and Avowed Sentiments of the King himſelf: And there are ſome, I perceive, do conjecture that a certain Law-driver <hi>on the other ſide of the Water, to whom</hi> Heraclitus Ridens <hi>by his Laſt Will and Teſtament, bequeathed his Scraps and Fragments of Law,</hi> who miſled the poor Innocent Souls into this groſs Miſtake, no leſs Scandalous to that Glorious Prince, than Oppoſite to his Intendments. And to con<g ref="char:EOLhyphen"/>firm my own Apprehenſions in this matter, I ſhall <hi>Preſent,</hi> (though not upon Oath) the Names of the <hi>Grand-Jury</hi> to the Reader, and then Commit it to his Judgment, Whether ſuch Perſons may be rationally conceiv'd to have ventured to quote <hi>Baſilicon Doron,</hi> A Piece ſo infinitely beyond the Comprehenſion of ſuch Perſons.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>John Page, <hi>Woollen Draper.</hi>
+                     </item>
+                     <item>Robert Sparks, <hi>Weaver.</hi>
+                     </item>
+                     <item>Henry Beresford, <hi>Brewer.</hi>
+                     </item>
+                     <item>Daniel Dutheſs, <hi>Vinegar Merchant.</hi>
+                     </item>
+                     <item>Thomas Hatcher, <hi>Tally-man.</hi>
+                     </item>
+                     <item>Thomas Ainſworth, <hi>Dyer.</hi>
+                     </item>
+                     <item>Richard Smart, <hi>Gartwheel-maker.</hi>
+                     </item>
+                     <item>Matthew Peirce, <hi>Meal-man.</hi>
+                     </item>
+                     <item>William Smith, <hi>Salter.</hi>
+                     </item>
+                     <item>William Wornham <hi>Baker.</hi>
+                     </item>
+                     <item>William Duk,</item>
+                     <item>Thomas Morgan, <hi>Grocer.</hi>
+                     </item>
+                     <item>Francis Walker, <hi>Comb-maker.</hi>
+                     </item>
+                     <item>Carty Stanton, <hi>Carpenter.</hi>
+                     </item>
+                     <item>Philip Barker, <hi>Brewers Clerk.</hi>
+                     </item>
+                     <item>Francis Pound, <hi>Smoothing-Iron-maker.</hi>
+                     </item>
+                     <item>Joſeph Garret, <hi>Plummer.</hi>
+                     </item>
+                     <item>Thomas Waker, <hi>Cheeſemonger.</hi>
+                     </item>
+                     <item>William Green, <hi>Drummer.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> R. Oſwell.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
